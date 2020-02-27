@@ -36,7 +36,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "hello friend"
-      logoHomeLink = "/"
+      logoHomeLink = "/TinoBlog/"
     # or
     #
     # path = "/img/your-example-logo.svg"
