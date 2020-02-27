@@ -1,4 +1,4 @@
-baseURL = "https://c776188.github.io/TinoBlog/"
+baseURL = "https://c776188.github.io/"
 languageCode = "zh-tw"
 title = "Tino Blog"
 paginate = 5
@@ -36,18 +36,22 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "hello friend"
-      logoHomeLink = "/TinoBlog/"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
     [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        [[languages.en.menu.main]]
+            identifier = "tags"
+            name = "Tags"
+            url = "/tags"
+        [[languages.en.menu.main]]
+            identifier = "about"
+            name = "About"
+            url = "/about"
+        # [[languages.en.menu.main]]
+        #     identifier = "showcase"
+        #     name = "Showcase"
+        #     url = "/showcase"
