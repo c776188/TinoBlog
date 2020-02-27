@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://c776188.github.io/TinoBlog/categories/</loc>
+    <loc>https://c776188.github.io/about/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://c776188.github.io/TinoBlog/</loc>
+    <loc>https://c776188.github.io/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://c776188.github.io/TinoBlog/tags/</loc>
+    <loc>https://c776188.github.io/showcase/</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c776188.github.io/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://c776188.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://c776188.github.io/tags/</loc>
   </url>
   
 </urlset>
